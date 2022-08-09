@@ -12,7 +12,7 @@
 
 命令行窗口打开ev4-decrypt-tool目录
 
-![image-1](https://raw.githubusercontent.com/TheoLee4B/Ev4-Decrypt-Tool/main/images/image-1.png)
+![image-1](/images/image-1.png)
 
 ![image-2](https://raw.githubusercontent.com/TheoLee4B/Ev4-Decrypt-Tool/main/images/image-2.png)
 
